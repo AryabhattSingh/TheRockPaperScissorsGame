@@ -1,3 +1,10 @@
+welcome_message = """
+ _              _     _           __                     
+|_) _  _  |    |_) _ |_) _  __   (_  _  o  _  _  _  __ _ 
+| \(_)(_  |<   |  (_||  (/_ |    __)(_  | _> _> (_) | _> 
+
+Welcome to The Rock Paper Scissors Game."""
+
 rock = '''
     _______
 ---'   ____)
